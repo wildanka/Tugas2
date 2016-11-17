@@ -9,6 +9,9 @@ Implementasi Preference Setting Android
 
 - Lakukan pull request untuk mengumpulkan tugas
 
+# Contoh Tampilan
+![Preferences Setting Android](https://developer.android.com/images/ui/settings/settings.png "Preferences Setting Android")
+
 # Referensi
 Bagi kalian yang membutuhkan referensi, silahkan gunakan official guide dibawah yang disediakan oleh android.
 
